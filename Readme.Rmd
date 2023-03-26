@@ -1,6 +1,6 @@
 ---
 title: "Biking Project"
-author: "Abdelhadi CHAJIA , Mustapha EL IDRISSI"
+author: Binom("Abdelhadi CHAJIA , Mustapha EL IDRISSI")
 date: "1/16/2022"
 output:
   pdf_document: default
